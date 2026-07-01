@@ -1,0 +1,9 @@
+app:
+  name: "Diario do Professor Mobile"
+  package: "com.josias.diarioprofessormobile"
+  version: "1.0.0"
+  main_module: "main"
+
+android:
+  permissions:
+    - INTERNET
